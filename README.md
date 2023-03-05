@@ -5,3 +5,4 @@
 Columnの中にListViewを入れると、Flutter同様おかしな表示になるので、そこを今回LsitViewをContainerで囲むことで対処しました
 
 ## デモ動画
+https://youtu.be/TmLQHQLPl5U
