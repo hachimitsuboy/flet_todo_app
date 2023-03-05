@@ -100,7 +100,7 @@ class TodoApp(ft.UserControl):
 
 
 def main(page: ft.Page):
-    page.title = 'Todoアプリ'
+    page.title = '飲食店検索アプリ'
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     todo = TodoApp()
 
